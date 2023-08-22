@@ -1,0 +1,12 @@
+C:\Repos\CloudNativePackage\src\Common\Com.CloudNative.Common\bin\Debug\net6.0\Com.CloudNative.Common.deps.json
+C:\Repos\CloudNativePackage\src\Common\Com.CloudNative.Common\bin\Debug\net6.0\Com.CloudNative.Common.dll
+C:\Repos\CloudNativePackage\src\Common\Com.CloudNative.Common\bin\Debug\net6.0\Com.CloudNative.Common.pdb
+C:\Repos\CloudNativePackage\src\Common\Com.CloudNative.Common\obj\Debug\net6.0\Com.CloudNative.Common.csproj.AssemblyReference.cache
+C:\Repos\CloudNativePackage\src\Common\Com.CloudNative.Common\obj\Debug\net6.0\Com.CloudNative.Common.GeneratedMSBuildEditorConfig.editorconfig
+C:\Repos\CloudNativePackage\src\Common\Com.CloudNative.Common\obj\Debug\net6.0\Com.CloudNative.Common.AssemblyInfoInputs.cache
+C:\Repos\CloudNativePackage\src\Common\Com.CloudNative.Common\obj\Debug\net6.0\Com.CloudNative.Common.AssemblyInfo.cs
+C:\Repos\CloudNativePackage\src\Common\Com.CloudNative.Common\obj\Debug\net6.0\Com.CloudNative.Common.csproj.CoreCompileInputs.cache
+C:\Repos\CloudNativePackage\src\Common\Com.CloudNative.Common\obj\Debug\net6.0\Com.CloudNative.Common.dll
+C:\Repos\CloudNativePackage\src\Common\Com.CloudNative.Common\obj\Debug\net6.0\refint\Com.CloudNative.Common.dll
+C:\Repos\CloudNativePackage\src\Common\Com.CloudNative.Common\obj\Debug\net6.0\Com.CloudNative.Common.pdb
+C:\Repos\CloudNativePackage\src\Common\Com.CloudNative.Common\obj\Debug\net6.0\ref\Com.CloudNative.Common.dll
