@@ -12,7 +12,7 @@ jobs:
       AZURE_ARTIFACTS_FEED_URL: https://timcyspet.pkgs.visualstudio.com/_packaging/timcyspet/nuget/v3/index.json    
 
     runs-on: ubuntu-latest
-    
+        
     timeout-minutes: 5
     steps:
     - name: Checkout
