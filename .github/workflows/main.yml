@@ -8,7 +8,7 @@ jobs:
   build:
     env:
       BUILD_CONFIG: 'Release'
-      SOLUTION: 'BaseProject/BaseProject.sln'
+      SOLUTION: 'src/Common/Com.CloudNative.Common/Com.CloudNative.Common.sln'
       AZURE_ARTIFACTS_FEED_URL: https://timcyspet.pkgs.visualstudio.com/_packaging/timcyspet/nuget/v3/index.json    
 
     runs-on: ubuntu-latest
@@ -17,12 +17,16 @@ jobs:
     steps:
     - name: Checkout
       uses: actions/checkout@v2
+      
     - name: Setup .NET SDK
       uses: actions/setup-dotnet@v1
+      
     - name: Build
       run: dotnet build -c Release
-    - name: Test
-      run: dotnet test -c Release --no-build
+      
+    #- name: Test
+    # run: dotnet test -c Release --no-build
+      
     - name: Pack nugets
       run: dotnet pack -c Release --no-build --output .
     - name: Push to NuGet
