@@ -51,6 +51,7 @@ jobs:
       SOLUTION: 'src/Common/Com.CloudNative.Common/Com.CloudNative.Common.sln'
       AZURE_ARTIFACTS_FEED_URL: https://timcyspet.pkgs.visualstudio.com/_packaging/timcyspet/nuget/v3/index.json 
       VERSION: '1.0.0'
+      BUILD_NUMBER: ${{ steps.buildnumber.outputs.build_number }}
 
     runs-on: ubuntu-latest
    
